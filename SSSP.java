@@ -30,7 +30,7 @@ class SSSP
     }
    }
     public static void main(String[] args) {
-        int inf = 9999;//infint distance between non adjecent vertices
+        int inf = 9999;//Infinity distance between non adjecent vertices
         int graph[][] = {{0,50,45,10,inf,inf},
                         {inf,0,10,15,inf,inf},
                         {inf,inf,0,inf,30,inf},
